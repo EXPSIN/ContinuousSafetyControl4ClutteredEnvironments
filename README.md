@@ -11,6 +11,11 @@ or
 https://www.bilibili.com/video/BV17S4y1F77D
 
 # Paper 
+
+Continuous Safety Control of Mobile Robots in Cluttered Environments
+https://ieeexplore.ieee.org/document/9811271
+10.1109/LRA.2022.3187492
+
 ```
 @article{Wu-Liu-Niu-Jiang-RAL-2022,
   title={Continuous Safety Control of Mobile Robots in Cluttered Environments},
